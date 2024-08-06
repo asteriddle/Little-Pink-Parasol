@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 00000000F28D11EA -->
+<I c="Preference" i="trait" m="traits.preference" n="sdm:bentobox_LunarRabbitfolk_LikePreference" s="4069331434">
+    <L n="ages">
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+    </L>
+    <L n="conflicting_traits">
+        <T>1615273590</T>
+    </L>
+    <T n="display_name">0xC0EF0FE9<!--Likes lunar rabbitfolk--></T>
+    <T n="display_name_gender_neutral">0xC0EF0FE9<!--Likes lunar rabbitfolk--></T>
+    <L n="genders">
+        <E>MALE</E>
+        <E>FEMALE</E>
+    </L>
+    <T n="icon" p="InEP04\UI\Icons\Whims\whim_PetBall.png">2f7d0004:00000000:1a2c95fbb520aecb</T>
+    <T n="persistable">True</T>
+    <T n="preference_item">15913949215090305526</T>
+    <L n="species">
+        <E>HUMAN</E>
+    </L>
+    <T n="trait_description">0xAC74F1A0<!--Lunar rabbitfolk--></T>
+    <E n="trait_type">LIKE</E>
+</I>

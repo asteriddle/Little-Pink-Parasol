@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<I c="ImmediateSuperInteraction" s="3599348453" i="interaction" m="interactions.base.immediate_interaction" n="SDMsims_sdmCoelunemod_ApplyDeoxysbodyreaction">
+  <T n="maximum_time_to_wait_for_other_sims">8</T>
+  <V n="outcome" t="single">
+    <U n="single">
+      <U n="actions">
+        <L n="basic_extras">
+          <V t="do_command">
+            <U n="do_command">
+              <L n="arguments">
+                <V t="participant">
+                  <U n="participant">
+                    <E n="argument">ParticipantType.Actor</E>
+                  </U>
+                </V>
+              </L>
+              <T n="command">bentobox.deoxys_body</T>
+            </U>
+          </V>
+        </L>
+      </U>
+    </U>
+  </V>
+  <T n="pie_menu_priority">0</T>
+</I>

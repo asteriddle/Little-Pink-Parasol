@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Group: 00000000 -->
+<I c="Trait" i="trait" m="traits.traits" n="sdm:bentobox_genetics_LR_FloppedRabbit" s="10574720730439250901">
+    <L n="ages">
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+        <E>INFANT</E>
+    </L>
+    <T n="display_name">0x1FF21950<!--EARS TYPE: Flopped rabbit (LR)--></T>
+    <T n="display_name_gender_neutral">0x1FF21950<!--EARS TYPE: Flopped rabbit (LR)--></T>
+    <L n="genders">
+        <E>FEMALE</E>
+        <E>MALE</E>
+    </L>
+    <T n="icon" p="InEP04\UI\Icons\Whims\whim_PetToybox.png">2f7d0004:00000000:eafe32c83d7077af</T>
+    <L n="species">
+        <E>HUMAN</E>
+    </L>
+    <E n="trait_type">HIDDEN</E>
+</I>

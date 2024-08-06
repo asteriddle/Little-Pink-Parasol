@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 6017E896, Group: 00000000, Instance: FDC9F2CE99B21982 -->
+<I c="Buff" i="buff" m="buffs.buff" n="sdm:bentobox_LunarRabbitfolkCORE_adultbuff" s="18287414731070380418">
+    <V n="_add_test_set" t="tests_set">
+        <L n="tests_set">
+            <L>
+                <V t="sim_info">
+                    <U n="sim_info">
+                        <V n="ages" t="specified">
+                            <L n="specified">
+                                <E>ADULT</E>
+                                <E>YOUNGADULT</E>
+                                <E>TEEN</E>
+                                <E>ELDER</E>
+                            </L>
+                        </V>
+                    </U>
+                </V>
+            </L>
+        </L>
+    </V>
+    <T n="buff_description">0x00000000</T>
+    <T n="buff_name">0x95144C79<!--DEBUG: Lunar rabbitfolk core buff (ADULTS)--></T>
+    <U n="game_effect_modifier">
+        <L n="_game_effect_modifiers">
+            <V t="autonomy_modifier">
+                <U n="autonomy_modifier">
+                    <L n="skill_tag_modifiers">
+                        <U>
+                            <E n="key">Skill_RocketScience</E>
+                            <T n="value">1.2</T>
+                        </U>
+                        <U>
+                            <E n="key">Skill_LocalCulture</E>
+                            <T n="value">1.2</T>
+                        </U>
+                        <U>
+                            <E n="key">Skill_Charisma</E>
+                            <T n="value">1.1</T>
+                        </U>
+                        <U>
+                            <E n="key">Skill_Comedy</E>
+                            <T n="value">1.1</T>
+                        </U>
+                    </L>
+                    <V n="subject" t="apply_to_owner" />
+                </U>
+            </V>
+        </L>
+    </U>
+    <T n="icon" p="InEP04\UI\Icons\Whims\whim_PetBall.png">2f7d0004:00000000:1a2c95fbb520aecb</T>
+    <T n="mood_type">14637<!--Mood_Fine--></T>
+    <T n="mood_weight">0</T>
+    <T n="show_timeout">False</T>
+    <T n="visible">False</T>
+</I>

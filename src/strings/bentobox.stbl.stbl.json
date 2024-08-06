@@ -1,0 +1,31 @@
+{
+  "locale": "English",
+  "group": "0x80000000",
+  "instanceBase": "0x694020BA8030B4",
+  "entries": {
+    "0xCDAAD76C": "COLOR GROUP VALUE: Magic",
+    "0xAB1676DE": "COLOR GROUP VALUE: Skin",
+    "0x71667F7D": "COLOR GROUP VALUE: Feathers",
+    "0xC3F99F7B": "COLOR GROUP VALUE: Keratin",
+    "0x0797DD0C": "COLOR GROUP VALUE: Markings",
+    "0xFB54EB83": "COLOR GROUP VALUE: Fur",
+    "0x1FF21950": "EARS TYPE: Flopped rabbit (LR)",
+    "0xDE5D890F": "Fixup actions",
+    "0xD3769591": "Randomize by location",
+    "0x058DE17C": "Randomize by species",
+    "0xAA4398A3": "NPC setup utilities",
+    "0x51F3AD78": "OC setup utilities",
+    "0x5453682C": "...like rabbits?",
+    "0xE5C7C847": "thats just called a fetish, dude",
+    "0xC0EF0FE9": "Likes lunar rabbitfolk",
+    "0xAC74F1A0": "Lunar rabbitfolk",
+    "0x0F549258": "Dislikes lunar rabbitfolk",
+    "0xF12E04FF": "Who DOESN'T like these guys??",
+    "0xC17DF977": "racism!!",
+    "0x11191090": "Bentobox species",
+    "0x95144C79": "DEBUG: Lunar rabbitfolk core buff (ADULTS)",
+    "0x7775448A": "(From Bentobox)",
+    "0xF4FCD63A": "Rabbits are rabbits are rabbits are rabbits are... re-re-re red eyed... red eyed!",
+    "0xE0AC7BE3": "★★ SPECIES : Lunar Rabbitfolk"
+  }
+}

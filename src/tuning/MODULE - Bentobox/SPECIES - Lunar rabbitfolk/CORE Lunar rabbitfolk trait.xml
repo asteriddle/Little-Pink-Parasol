@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: E5381346334FA98D -->
+<I c="Trait" i="trait" m="traits.traits" n="sdm:bentobox_LunarRabbitfolkCORE_trait" s="16516972825610791309">
+  <L n="ages">
+    <E>TODDLER</E>
+    <E>CHILD</E>
+    <E>TEEN</E>
+    <E>YOUNGADULT</E>
+    <E>ADULT</E>
+    <E>ELDER</E>
+    <E>INFANT</E>
+  </L>
+  <L n="buffs">
+    <U>
+      <T n="buff_type">18287414731070380418</T>
+    </U>
+  </L>
+  <T n="display_name">0xE0AC7BE3<!--★★ SPECIES : Lunar Rabbitfolk--></T>
+  <T n="display_name_gender_neutral">0xE0AC7BE3<!--★★ SPECIES : Lunar Rabbitfolk--></T>
+  <L n="genders">
+    <E>FEMALE</E>
+    <E>MALE</E>
+  </L>
+  <T n="icon" p="InGame\UI\Icons\CAS\Traits\trait_Calm.png">2f7d0004:00000000:f8bef770a6e29bc7</T>
+  <T n="persistable">True</T>
+  <L n="species">
+    <E>HUMAN</E>
+  </L>
+  <T n="trait_description">0xF4FCD63A<!--Rabbits are rabbits are rabbits are rabbits are... re-re-re red eyed... red eyed!--></T>
+  <T n="trait_origin_description">0x7775448A<!--(From Bentobox)--></T>
+  <E n="trait_type">PHASE</E>
+</I>

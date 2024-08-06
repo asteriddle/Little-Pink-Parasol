@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: EC68FD22, Group: 00000000, Instance: DCD9B47ED31069F6 -->
+<I c="CharacteristicPreferenceItem" i="cas_preference_item" m="cas.cas_preference_item" n="sdm:bentobox_LunarRabbitfolk_PlatonicPreferenceItem" s="15913949215090305526">
+    <T n="cas_preference_category">13203379532679981286</T>
+    <T n="dislike">1615273590</T>
+    <T n="like">4069331434</T>
+    <V n="tooltip" t="enabled">
+        <T n="enabled">0xF12E04FF<!--Who DOESN'T like these guys??--></T>
+    </V>
+    <L n="trait_map">
+        <U>
+            <T n="key">16516972825610791309</T>
+            <T n="value">3</T>
+        </U>
+    </L>
+</I>

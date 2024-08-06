@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: D587A0472D0E47CC -->
+<I c="AttractionPreference" i="trait" m="traits.attraction_preference" n="sdm:bentobox_LunarRabbitfolk_TurnOff" s="15386442879493621708">
+    <L n="ages">
+        <E>TEEN</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+        <E>YOUNGADULT</E>
+    </L>
+    <U n="attraction_modifier">
+        <L n="modifiers">
+            <U>
+                <T n="modifier">-30</T>
+                <L n="tests">
+                    <L>
+                        <V t="preference_compatibility_score">
+                            <U n="preference_compatibility_score">
+                                <E n="comparison_operator">LESS_OR_EQUAL</E>
+                                <T n="knowledge_only">True</T>
+                                <T n="preference">17246543983483290339<!--preferenceItem_Attraction_Characteristics_Funny--></T>
+                                <T n="score">-2</T>
+                            </U>
+                        </V>
+                    </L>
+                </L>
+            </U>
+        </L>
+    </U>
+    <L n="buffs">
+        <U>
+            <T n="buff_type">365341<!--buff_Attraction_HasTurnOff--></T>
+        </U>
+    </L>
+    <T n="cas_trait_asm_param">NegativeReactions</T>
+    <L n="conflicting_traits">
+        <T>14159590903918780582<!--trait_Attraction_Characteristics_Funny_TurnOn--></T>
+    </L>
+    <T n="display_name">0xAC74F1A0<!--Lunar rabbitfolk--></T>
+    <T n="display_name_gender_neutral">0xAC74F1A0<!--Lunar rabbitfolk--></T>
+    <T n="icon" p="InGame\UI\Icons\CAS\Traits\Preferences\traits_Funny_bg.png">2f7d0004:00000000:903790899aaa9973</T>
+    <T n="persistable">True</T>
+    <T n="preference_item">17246543983483290339<!--preferenceItem_Attraction_Characteristics_Funny--></T>
+    <T n="trait_description">0xAC74F1A0<!--Lunar rabbitfolk--></T>
+    <E n="trait_type">DISLIKE</E>
+</I>

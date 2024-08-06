@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Group: 00000000 -->
+<I c="Statistic" i="statistic" m="statistics.statistic" n="sdm:bentobox_genetics_colorgroup_fur" s="17031358117413327432">
+    <E n="gallery_load_behavior">LOAD_ONLY_FOR_SIM</E>
+    <U n="initial_tuning">
+        <T n="_initial_value">1</T>
+    </U>
+    <T n="max_value_tuning">66</T>
+    <T n="min_value_tuning">1</T>
+    <T n="persisted_tuning">True</T>
+    <T n="stat_name">0xFB54EB83<!--COLOR GROUP VALUE: Fur--></T>
+</I>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 545AC67A, Group: 0068FDCE, Instance: DCD9B47ED31069F6 -->
+<SimData version="0x00000101" u="0x00000000">
+  <Instances>
+    <I name="sdm:bentobox_LunarRabbitfolk_PlatonicPreferenceItem" schema="CharacteristicPreferenceItem" type="Object">
+      <T name="cas_preference_category">13203379532679981286</T>
+      <T name="dislike">1615273590</T>
+      <T name="like">4069331434</T>
+      <V name="tooltip" variant="0xF8CBBF4C">
+        <T type="LocalizationKey">0xF12E04FF</T>
+      </V>
+    </I>
+  </Instances>
+  <Schemas>
+    <Schema name="CharacteristicPreferenceItem" schema_hash="0x9C4C79CB">
+      <Columns>
+        <Column name="cas_preference_category" type="TableSetReference" flags="0x00000000"/>
+        <Column name="dislike" type="TableSetReference" flags="0x00000000"/>
+        <Column name="like" type="TableSetReference" flags="0x00000000"/>
+        <Column name="tooltip" type="Variant" flags="0x00000000"/>
+      </Columns>
+    </Schema>
+  </Schemas>
+</SimData>
