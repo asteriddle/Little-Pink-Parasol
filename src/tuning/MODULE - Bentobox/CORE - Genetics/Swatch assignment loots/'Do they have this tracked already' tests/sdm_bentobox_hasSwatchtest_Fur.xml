@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 7DF2169C, Group: 00000000, Instance: 8AA093225A513435 -->
+<I c="TestSetInstance" i="snippet" m="event_testing.tests" n="sdm:bentobox_hasSwatchtest_Fur" s="9989145749261202485">
+    <V n="invert_test" t="enabled">
+        <U n="enabled" />
+    </V>
+    <L n="test">
+        <L>
+            <V t="statistic">
+                <U n="statistic">
+                    <T n="must_have_stat">True</T>
+                    <T n="stat">17031358117413327432<!--sdm:bentobox_genetics_colorgroup_fur--></T>
+                    <E n="who">Actor</E>
+                </U>
+            </V>
+        </L>
+    </L>
+</I>

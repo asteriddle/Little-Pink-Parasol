@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 545AC67A, Group: 009BC58E, Instance: A563B3BA4F8758E2 -->
 <SimData version="0x00000101" u="0x00000000">
   <Instances>
-    <I name="sdm:bentobox_genetics_colorgroup_keratin" schema="Statistic" type="Object">
+    <I name="sdm:bentobox_genetics_colorgroup_skin" schema="Statistic" type="Object">
       <T name="max_value_tuning">66</T>
       <T name="min_value_tuning">1</T>
-      <T name="stat_name">0xC3F99F7B</T>
+      <T name="stat_name">0xAB1676DE</T>
     </I>
   </Instances>
   <Schemas>

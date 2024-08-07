@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- S4TK Group: 00000000 -->
-<I c="Statistic" i="statistic" m="statistics.statistic" n="sdm:bentobox_genetics_colorgroup_marking" s="10064125090494410786">
+<!-- S4TK Type: 339BC5BD, Group: 00000000, Instance: A563B3BA4F8758E2 -->
+<I c="Statistic" i="statistic" m="statistics.statistic" n="sdm:bentobox_genetics_colorgroup_skin" s="11917566651732023522">
     <E n="gallery_load_behavior">LOAD_ONLY_FOR_SIM</E>
     <U n="initial_tuning">
         <T n="_initial_value">1</T>
@@ -8,5 +8,5 @@
     <T n="max_value_tuning">66</T>
     <T n="min_value_tuning">1</T>
     <T n="persisted_tuning">True</T>
-    <T n="stat_name">0x0797DD0C<!--COLOR GROUP VALUE: Markings--></T>
+    <T n="stat_name">0xAB1676DE<!--COLOR GROUP VALUE: Skin--></T>
 </I>
