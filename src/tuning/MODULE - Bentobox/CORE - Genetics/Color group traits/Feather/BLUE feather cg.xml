@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: A48DAE92A5A8F245 -->
+<I c="Trait" i="trait" m="traits.traits" n="sdm:bentobox_genetics_colorgrouptraitFeathers_BLUE" s="11857325338804154949">
+    <L n="ages">
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+        <E>INFANT</E>
+        <E>BABY</E>
+    </L>
+    <T n="allow_from_gallery">True</T>
+    <T n="display_name">0xB1C780A1<!--FEATHERS: Color group blue--></T>
+    <T n="display_name_gender_neutral">0xB1C780A1<!--FEATHERS: Color group blue--></T>
+    <L n="genders">
+        <E>MALE</E>
+        <E>FEMALE</E>
+    </L>
+    <T n="icon" p="InEP04\UI\Icons\Whims\whim_MeetNewPet.png">2f7d0004:00000000:5ad91ff4e1282f71</T>
+    <V n="loot_on_trait_add" t="enabled">
+        <L n="enabled">
+            <T>imdyingsquirtle</T>
+        </L>
+    </V>
+    <L n="species">
+        <E>HUMAN</E>
+    </L>
+    <E n="trait_type">HIDDEN</E>
+</I>
