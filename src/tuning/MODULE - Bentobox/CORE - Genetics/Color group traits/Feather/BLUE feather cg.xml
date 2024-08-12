@@ -21,7 +21,7 @@
     <T n="icon" p="InEP04\UI\Icons\Whims\whim_MeetNewPet.png">2f7d0004:00000000:5ad91ff4e1282f71</T>
     <V n="loot_on_trait_add" t="enabled">
         <L n="enabled">
-            <T>imdyingsquirtle</T>
+            <T>13301333401899490772<!--sdm:bentobox_genetics_FeatherBLUE_Initloot--></T>
         </L>
     </V>
     <L n="species">
