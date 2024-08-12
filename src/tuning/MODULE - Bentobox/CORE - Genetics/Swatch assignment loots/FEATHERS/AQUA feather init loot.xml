@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: D2C20E1081BC3968 -->
+<I c="LootActions" i="action" m="interactions.utils.loot" n="sdm:bentobox_genetics_FeatherAQUA_Initloot" s="15186716357505595752">
+    <L n="loot_actions">
+        <V t="trait_add">
+            <U n="trait_add">
+                <E n="subject">Actor</E>
+                <T n="trait">10111709712959232999<!--sdm:bentobox_genetics_FeatherColor_assignedmarker--></T>
+            </U>
+        </V>
+        <V t="statistics">
+            <V n="statistics" t="statistic_add">
+                <U n="statistic_add">
+                    <T n="advertise">True</T>
+                    <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                    <L n="subject">
+                        <E>Actor</E>
+                    </L>
+                </U>
+            </V>
+        </V>
+        <V t="actions">
+            <T n="actions">17395619654802404881</T>
+        </V>
+    </L>
+    <L n="tests">
+        <L>
+            <V t="trait">
+                <U n="trait">
+                    <L n="blacklist_traits">
+                        <T>10111709712959232999<!--sdm:bentobox_genetics_FeatherColor_assignedmarker--></T>
+                    </L>
+                    <T n="num_blacklist_allowed">0</T>
+                    <E n="subject">Actor</E>
+                </U>
+            </V>
+        </L>
+    </L>
+</I>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: CB5FDDC7, Group: 00000000, Instance: 8C540268E8CD5BE7 -->
+<I c="Trait" i="trait" m="traits.traits" n="sdm:bentobox_genetics_FeatherColor_assignedmarker" s="10111709712959232999">
+    <L n="ages">
+        <E>BABY</E>
+        <E>TODDLER</E>
+        <E>CHILD</E>
+        <E>TEEN</E>
+        <E>YOUNGADULT</E>
+        <E>ADULT</E>
+        <E>ELDER</E>
+        <E>INFANT</E>
+    </L>
+    <T n="display_name">0x809EB15E<!--DEBUG: Has has feather color assigned--></T>
+    <T n="display_name_gender_neutral">0x809EB15E<!--DEBUG: Has has feather color assigned--></T>
+    <L n="genders">
+        <E>FEMALE</E>
+        <E>MALE</E>
+    </L>
+    <T n="icon" p="InEP04\UI\Icons\Whims\whim_PetBall.png">2f7d0004:00000000:1a2c95fbb520aecb</T>
+    <T n="persistable">True</T>
+    <L n="species">
+        <E>HUMAN</E>
+    </L>
+    <E n="trait_type">HIDDEN</E>
+</I>

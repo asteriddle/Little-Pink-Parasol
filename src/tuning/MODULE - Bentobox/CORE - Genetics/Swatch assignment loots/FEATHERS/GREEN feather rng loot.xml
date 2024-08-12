@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C18686707106595A -->
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="sdm:bentobox_genetics_FeatherGREEN_RNGloot" s="13944981113690020186">
+    <L n="random_loot_actions">
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">32</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">33</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">34</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">35</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013</T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">36</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013</T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">37</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013</T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">38</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013</T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">39</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+    </L>
+</I>

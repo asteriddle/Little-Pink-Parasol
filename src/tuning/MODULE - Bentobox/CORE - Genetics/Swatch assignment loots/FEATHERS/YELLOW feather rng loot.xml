@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- S4TK Type: 0C772E27, Group: 00000000, Instance: C5D8EE94AF54A685 -->
+<I c="RandomWeightedLoot" i="action" m="interactions.utils.loot" n="sdm:bentobox_genetics_FeatherYELLOW_RNGloot" s="14256406942805436037">
+    <L n="random_loot_actions">
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">40</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">41</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">42</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+        <U>
+            <V n="action" t="statistics">
+                <V n="statistics" t="statistic_set">
+                    <U n="statistic_set">
+                        <T n="stat">11184095418178685013<!--sdm:bentobox_genetics_colorgroup_feathers--></T>
+                        <L n="subject">
+                            <E>Actor</E>
+                        </L>
+                        <T n="value">43</T>
+                    </U>
+                </V>
+            </V>
+        </U>
+    </L>
+</I>

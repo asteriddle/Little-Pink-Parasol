@@ -3,6 +3,12 @@
   "group": "0x80000000",
   "instanceBase": "0x694020BA8030B4",
   "entries": {
+    "0x55D1FFAB": "DEBUG: Has had skin color assigned",
+    "0x9DE2D61E": "DEBUG: Has had marking color assigned",
+    "0xA8369163": "DEBUG: Has had magic color assigned",
+    "0xC192FF21": "DEBUG: Has had keratin color assigned",
+    "0x01A027E8": "DEBUG: Has had fur color assigned",
+    "0x809EB15E": "DEBUG: Has had feather color assigned",
     "0x975C989B": "SKIN: Color group pink",
     "0x00B75F8E": "SKIN: Color group red",
     "0xFFB8D2D9": "SKIN: Color group brown",
